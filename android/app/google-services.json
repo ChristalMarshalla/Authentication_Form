@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427998995854",
+    "project_id": "authentication-form-70c3b",
+    "storage_bucket": "authentication-form-70c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427998995854:android:5daca03ed76516f413b0df",
+        "android_client_info": {
+          "package_name": "com.example.auth_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWRDnZjIIf3Rsleu3w8P_F98Q1UYqWNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
